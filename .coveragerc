@@ -1,0 +1,5 @@
+[run]
+omit =
+    awesomepy/_version.py
+    versioneer.py
+    tests/__init__.py

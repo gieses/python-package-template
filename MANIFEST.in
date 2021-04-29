@@ -1,0 +1,6 @@
+include versioneer.py
+include models/_version.py
+include README.md
+include LICENSE
+graft models
+recursive-exclude * *.py[co]
